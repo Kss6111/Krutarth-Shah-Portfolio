@@ -1,30 +1,22 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+| [home page](https://kss6111.github.io/Krutarth-Shah-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+“Transforming messy data into clear stories.”
+
+Hi, I’m Krutarth! I’m passionate about uncovering insights hidden in data and turning them into solutions that make a real impact. Currently pursuing my Master’s in Information Systems Management at Carnegie Mellon University, I enjoy working at the intersection of technology, analytics, and decision-making.
+
+I bring experience in data analytics, visualization, and product-oriented problem solving, with a knack for making complex information simple and actionable. Beyond the dashboards, I love collaborating with teams, mentoring peers, and finding creative ways to communicate insights that drive decisions.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Learn how to design clear and impactful data visualizations.
 
-or...
+2. Understand how to craft stories that make data insights memorable.
 
-- List item #1
-- List item #2
-- List item #3
+3. Develop skills to present complex information in a simple, engaging way.
+
+
 
 # Portfolio
 
@@ -109,4 +101,5 @@ _List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
 
