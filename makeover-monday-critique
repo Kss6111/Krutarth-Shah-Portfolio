@@ -1,0 +1,49 @@
+# Critique and Redesign (MakeoverMonday)
+
+## Why I Selected This Visualization
+I chose this visualization because I’m personally interested in both fitness and nutrition, and I wanted to explore how data can be used to compare the cost-effectiveness of protein sources. Protein is one of the most important nutrients for building and maintaining muscle, but it can also get expensive depending on the source. I felt this visualization was a great opportunity to practice critiquing a real-world chart that connects with my own interests, and to see how I could make the information easier to understand for people who might be making everyday food choices.  
+
+Original visualization:  
+[How Cost Effective is Your High Protein Diet?](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)  
+
+---
+
+## Step-by-Step Narrative
+
+### Step 1: Critique
+I started by critiquing the original visualization using **Stephen Few’s Data Visualization Effectiveness Profile**. The chart was informative, but I noticed issues like unclear grouping, lack of strong visual hierarchy, and difficulty in quickly comparing cost-effectiveness across food types.  
+
+### Step 2: Sketch
+Based on the critique, I designed a redesign idea that grouped food categories more clearly and used colors to distinguish between vegetarian, vegan, and non-vegetarian options.  
+
+
+### Step 3: Feedback
+I shared my first draft with peers. My design had three distinct colors (light green for vegetarian, dark green for vegan, and dark gray for non-vegetarian). The feedback was helpful:  
+- Too much eye travel.  
+- No median line for comparison.  
+- Vegan viewers would find other categories distracting.  
+
+### Step 4: Redesign
+Taking this feedback, I redesigned the visualization. I reduced the color complexity, added a **median line**, and focused the design to make it clearer for different dietary audiences.  
+
+*(Insert your redesigned visualization screenshot here)*  
+
+---
+
+## Reflection
+This exercise taught me how much value comes from **iterative design and feedback**. My initial chart was visually clear to me, but once others looked at it, they pointed out things I had overlooked—like the need for a benchmark (median line) and the way color choices can cause distraction. By incorporating this feedback, my final design became much more effective and user-friendly. It reminded me that data visualization isn’t just about making something look good, but about **making it intuitive and useful for the audience**.  
+
+---
+
+## References
+- [How Cost Effective is Your High Protein Diet?](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)  
+- [Can You Eat Too Much Protein?](https://lifehacker.com/health/can-you-eat-too-much-protein)  
+
+---
+
+## AI Disclosure
+I used Copilot (AI assistance) to help me navigate through Tableau and help me with formulas, rewrite parts of my write-up, specifically in structuring my narrative, polishing the language, and ensuring clarity. All data analysis, visualization design, and final decisions about the redesign were made by me.  
+
+---
+
+[← Back to Portfolio Home](../index.md)
