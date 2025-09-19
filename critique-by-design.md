@@ -37,8 +37,6 @@ Link to the Redesigned Chart:
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
   </script>
 
-Image of the Redesigned Chart:
-<img width="1025" height="560" alt="image" src="https://github.com/user-attachments/assets/655550e3-aa15-49db-a8b9-c55689387a7f" />
 
 ## Reflection
 This exercise taught me how much value comes from **iterative design and feedback**. My initial chart was visually clear to me, but once others looked at it, they pointed out things I had overlooked—like the need for a benchmark (median line) and the way color choices can cause distraction. By incorporating this feedback, my final design became much more effective and user-friendly. It reminded me that data visualization isn’t just about making something look good, but about **making it intuitive and useful for the audience**.  
