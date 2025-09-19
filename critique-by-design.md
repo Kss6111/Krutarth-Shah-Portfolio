@@ -1,59 +1,43 @@
 | [home page](https://kss6111.github.io/Krutarth-Shah-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# What Does 30g of Protein Cost? Vegan, Vegetarian & Non-veg
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+# Why I Selected This Visualization
+I chose this visualization because I’m personally interested in both fitness and nutrition, and I wanted to explore how data can be used to compare the cost-effectiveness of protein sources. Protein is one of the most important nutrients for building and maintaining muscle, but it can also get expensive depending on the source. I felt this visualization was a great opportunity to practice critiquing a real-world chart that connects with my own interests, and to see how I could make the information easier to understand for people who might be making everyday food choices.  
+
+Original visualization:  
+[How Cost Effective is Your High Protein Diet?](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)  
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+I started by critiquing the original visualization using **Stephen Few’s Data Visualization Effectiveness Profile**. The chart was informative, but I noticed issues like unclear grouping, lack of strong visual hierarchy, and difficulty in quickly comparing cost-effectiveness across food types.  
 
 ## Step three: Sketch a solution
 
-## Step four: Test the solution
+<img width="1157" height="597" alt="image" src="https://github.com/user-attachments/assets/b0480157-1525-4503-882f-71f392bb6011" />
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+I shared my first draft with peers. My design had three distinct colors (light green for vegetarian, dark green for vegan, and dark gray for non-vegetarian). The feedback was helpful:  
+- Too much eye travel.  
+- No median line for comparison.  
+- Vegan viewers would find other categories distracting.  
 
-Questions to ask (modify these for your own interviews): 
+## Step four: Redesign
+Taking this feedback, I redesigned the visualization. I reduced the unnecessary color complexity, added a median line for better reference, and made the chart more focused on helping each audience (vegan, vegetarian, or non-vegetarian) quickly understand their best options.
 
-- Can you tell me what you think this is?
+Link to the Redesigned Chart:
 
-- Can you describe to me what this is telling you?
+Image of the Redesigned Chart:
+<img width="1025" height="560" alt="image" src="https://github.com/user-attachments/assets/655550e3-aa15-49db-a8b9-c55689387a7f" />
 
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
-## Step five: build the solution
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+## Reflection
+This exercise taught me how much value comes from **iterative design and feedback**. My initial chart was visually clear to me, but once others looked at it, they pointed out things I had overlooked—like the need for a benchmark (median line) and the way color choices can cause distraction. By incorporating this feedback, my final design became much more effective and user-friendly. It reminded me that data visualization isn’t just about making something look good, but about **making it intuitive and useful for the audience**.  
 
 ## References
-_List any references you used here._
+- [How Cost Effective is Your High Protein Diet?](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)  
+- [Can You Eat Too Much Protein?](https://lifehacker.com/health/can-you-eat-too-much-protein)  
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT (AI assistance) to help me draft parts of my writeup, specifically in structuring my narrative, polishing the language, and ensuring clarity. All data analysis, visualization design, and final decisions about the redesign were done by me.  
 
