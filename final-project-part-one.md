@@ -4,11 +4,7 @@
 # Final Project – Part I  
 ## The Rise of Consumer Debt in India  
 
----
-
 ## Outline
-
----
 
 ## High-Level Summary  
 This project will explore the rise of small consumer debt in India, focusing on how everyday lifestyle purchases, such as clothing, electronics, and travel, are increasingly financed through credit cards, Buy Now Pay Later (BNPL) schemes, and EMI options.  
