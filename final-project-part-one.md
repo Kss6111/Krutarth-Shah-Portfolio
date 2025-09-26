@@ -2,7 +2,11 @@
 
 
 # Final Project – Part I  
-**Title:** The Rise of Consumer Debt in India  
+## The Rise of Consumer Debt in India  
+
+---
+
+## Outline
 
 ---
 
