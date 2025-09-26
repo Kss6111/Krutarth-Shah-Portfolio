@@ -1,42 +1,159 @@
 | [home page](https://kss6111.github.io/Krutarth-Shah-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+# Final Project – Part I  
+**Title:** The Rise of Consumer Debt in India  
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+---
+
+## High-Level Summary  
+This project will explore the rise of small consumer debt in India, focusing on how everyday lifestyle purchases, such as clothing, electronics, and travel, are increasingly financed through credit cards, Buy Now Pay Later (BNPL) schemes, and EMI options.  
+
+Over the past decade, India has witnessed rapid growth in unsecured consumer credit, particularly among younger, urban populations. This reflects shifting aspirations, the expansion of digital lending platforms, and a cultural shift toward financing consumption rather than only assets.  
+
+The goal is to create a data-driven narrative that shows:  
+- How consumer debt has grown in India  
+- Which categories are most affected  
+- How demographics (age, income) drive the trend  
+- What the broader implications are for household financial health and the economy  
+
+---
+
+## Project Structure  
+
+### 1. Consumer Debt Growth Over Time  
+India’s household debt-to-GDP has risen to ~43% in 2024, with credit card outstanding balances growing at double-digit rates annually (RBI, 2024). BNPL loan volumes reached ~$14 billion in 2023, up from $11.6 billion in 2022 (IMARC, 2024).  
+
+**Summary:** Highlights the rapid growth of small-ticket consumer credit. Policymakers can assess regulatory risks, businesses can gauge opportunities in digital lending, and consumers can understand how quickly credit has become mainstream.  
+
+---
+
+### 2. Assets vs. Non-Asset Borrowing  
+About 30% of household debt in India is in housing, 10% in vehicles, while the share of loans taken for consumption (personal loans, credit cards, BNPL) has increased by ~5 percentage points in recent years (RBI FSR, 2024).  
+
+**Summary:** Explores how debt is shifting away from long-term asset creation to short-term consumption. Policymakers can monitor systemic risks, businesses can identify growth categories like electronics and apparel, and households can reflect on financial sustainability.  
+
+---
+
+### 3. Household Budgets and Debt Servicing  
+Indian households now allocate ~33% of monthly income to EMI repayments; among affluent groups, this can reach 45% (Economic Times, 2025). Meanwhile, the net household financial savings rate has fallen to ~5% of GDP, the lowest in decades (RBI, 2024).  
+
+**Summary:** Illustrates how rising debt burdens affect financial resilience. Policymakers can track vulnerability to shocks, businesses can anticipate changes in spending behavior, and consumers can weigh the trade-off between borrowing and saving.  
+
+---
+
+### 4. Demographic Drivers of Credit Adoption  
+Millennials and Gen Z are driving credit growth, especially in urban India. CIBIL data shows young consumers are early adopters of credit cards and BNPL, with average balances rising year-over-year (CIBIL, 2024).  
+
+**Summary:** Highlights the role of younger demographics in fueling the credit boom. Policymakers can design financial literacy campaigns, businesses can tailor lending products, and young consumers can understand their long-term debt risks.  
+
+---
+
+### 5. Global Comparison of Household Debt  
+India’s household debt-to-GDP (~43%) is lower than China (~61%) and far below advanced economies like the US and UK (80–100%+), but India’s non-mortgage debt levels are relatively high (BIS, 2024). Debt-service ratios in India are ~11%, compared to ~18% in China and ~8–10% in the US (BIS, 2024).  
+
+**Summary:** Situates India globally, showing it is still a “low-debt” country overall but with unique vulnerabilities due to its rising consumer credit segment. Policymakers can benchmark resilience, businesses can assess India’s lending market maturity, and academics can compare India’s debt evolution with peers.  
+
+---
+
+### 6. Risks and Emerging Challenges  
+Credit card delinquency rates rose to ~1.8% in June 2024, up from 1.6% a year earlier (CIBIL, 2024). With more households borrowing for discretionary items, repayment risks and financial stress are increasing.  
+
+**Summary:** Examines risks of rising defaults, falling savings, and over-leverage. Policymakers can anticipate financial stability concerns, businesses can prepare for tighter regulations, and consumers can recognize the potential pitfalls of debt dependence.  
+
+---
+
+### 7. Conclusion / Call to Action  
+India’s consumer debt growth is both a story of empowerment and risk. While credit expansion supports lifestyle aspirations, it also challenges household savings and financial resilience.  
+
+**Summary:** Provides a roadmap for responsible credit growth. Policymakers can balance innovation with safeguards, businesses can expand lending responsibly, and consumers can adopt healthier borrowing practices.  
+
+---
+
+## Initial Sketches  
+
+### 1. Story Arc  
+- **Digital Payments Rise (😀 Positive)** → Credit adoption grows post-demonetization  
+- **BNPL Emerges (🙂 Cautious Optimism)** → Easy access fuels lifestyle borrowing  
+- **COVID Disruption (😞 Negative)** → Spending slows, repayment stress rises  
+- **Rising Debt (😐 Neutral)** → Households devote more income to EMIs  
+- **Defaults (😞 Concern)** → Delinquencies increase, savings fall  
+- **Regulation Tightens (🙂 Upturn)** → Policymakers push for responsible credit growth  
+
+<img width="1052" height="732" alt="image" src="https://github.com/user-attachments/assets/68d2251d-f7e5-4163-ad3a-c757dc31ea4e" />
+
+
+---
+
+### 2. Consumer Debt Growth (2015–2024)  
+- **2016 spike** → Demonetization & UPI growth → shift to digital payments  
+- **2020 dip** → COVID lockdowns slowed discretionary spending  
+- **2021–24 surge** → BNPL enters mainstream; e-commerce boom  
+
+<img width="1121" height="792" alt="image" src="https://github.com/user-attachments/assets/906efb80-081e-4a20-9f22-56ff44c8a6b7" />
+
+
+---
+
+### 3. Asset vs. Non-Asset Borrowing (% of Total Household Debt)  
+<img width="842" height="428" alt="image" src="https://github.com/user-attachments/assets/89e8f242-04b0-490f-ae43-654c975cfa85" />
+
+
+---
+
+### 4. Household Budget Split (2015 vs 2024)  
+<img width="842" height="428" alt="image" src="https://github.com/user-attachments/assets/89e8f242-04b0-490f-ae43-654c975cfa85" />
  
-Text here...
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+---
 
-Text here...
+## The Data  
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+### Primary Data Sources  
 
-Text here...
+| Name | URL | Description / What the link gives you |
+|------|-----|----------------------------------------|
+| BIS – Debt Service Ratio (India) | [Link](https://data.bis.org/topics/DSR/BIS%2CWS_DSR%2C1.0/Q.IN.P) | Debt service ratio for the private non-financial sector in India (interest + principal payments as share of income). |
+| CEIC – India Cards: Volume (Credit Card) | [Link](https://www.ceicdata.com/en/india/card-payments/cards-volume-credit-card) | Time series of credit card usage volume (units) in India (monthly). |
+| IDBI Capital / Bank Report – Credit Card Spend & Issuance | [Link](https://idbicapital.com/InstitutionReports/Uploads/Credit%20Card%20Data%20Update_SR_2412024.pdf) | Bank-wise credit card spend, issuance, growth rates, monthly data from RBI sources. |
+| RBI – Basic Statistical Return on Credit (SCBs) | [Link](https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/43174/RBI-published-the-Basic-Statistical-Return-on-Credit-by-Scheduled-Commercial-Banks-SCBs-in-India-March-2025-June022025.pdf) | Credit outstanding by SCBs (scheduled commercial banks), including breakdowns of credit types. |
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+---
 
-Text here...
+### How the Data Will Be Used  
+- **Consumer Debt Trends (2015–2024):** RBI and CIBIL data will track growth of credit card balances, personal loans, and BNPL adoption.  
+- **Category Breakdown of Spending:** NSSO data and industry reports (e.g., Counterpoint, PwC) will highlight how discretionary categories (clothing, electronics, travel) are increasingly financed through debt.  
+- **Household Budgets & Debt Service:** RBI savings and EMI burden data, plus news analyses (e.g., Economic Times), will show how much income goes to debt repayment vs. consumption and assets.  
+- **Demographic Insights:** CIBIL reports will provide age-wise adoption patterns, emphasizing Millennials and Gen Z.  
+- **Cross-Country Comparisons:** BIS, World Bank, and OECD will benchmark India against the US, UK, EU, and China.  
+- **Risks & Implications:** RBI’s Financial Stability Report and IMF research will highlight risks such as defaults, falling savings, and over-leverage.  
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+---
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+## Method and Medium  
+This project will be built using interactive storytelling tools and data visualization platforms:  
+- **Shorthand** for digital storytelling  
+- **Tableau** for interactive charts (credit trends, category splits, cross-country comparisons)  
+- **GitHub Pages** for project hosting and documentation  
+- **Python (matplotlib/pandas)** for preparing custom charts (story arc, debt vs income)  
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+📌 **Final Deliverable:**  
+An interactive, stand-alone project combining Shorthand storytelling with Tableau dashboards to communicate insights on consumer debt effectively.  
 
-Text here...
+---
 
-## References
-_List any references you used here._
+## References  
+- Reserve Bank of India. (2024). *Database on Indian Economy*. Retrieved from [https://www.rbi.org.in](https://www.rbi.org.in)  
+- TransUnion CIBIL. (2024). *Consumer Credit Insights Report*. Retrieved from [https://www.transunioncibil.com](https://www.transunioncibil.com)  
+- National Sample Survey Office (MOSPI). (2023). *Household Consumer Expenditure Survey*. Retrieved from [https://www.mospi.gov.in](https://www.mospi.gov.in)  
+- Counterpoint Research. (2023). *India Smartphone Financing Trends*. Retrieved from [https://www.counterpointresearch.com](https://www.counterpointresearch.com)  
+- PwC India. (2024). *The Changing Landscape of India’s Credit Industry*. Retrieved from [https://www.pwc.in](https://www.pwc.in)  
+- Bank for International Settlements. (2024). *Debt Service Ratio Data*. Retrieved from [https://www.bis.org/statistics](https://www.bis.org/statistics)  
+- World Bank. (2024). *World Development Indicators*. Retrieved from [https://data.worldbank.org](https://data.worldbank.org)  
+- OECD. (2024). *Household Savings and Debt Indicators*. Retrieved from [https://data.oecd.org](https://data.oecd.org)  
+- IMF. (2024). *Global Debt Database*. Retrieved from [https://www.imf.org](https://www.imf.org)  
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+---
+
+## AI Acknowledgements  
+For this assignment, I used ChatGPT to help refine my ideas, identify relevant datasets, and draft narrative structures. I also used Grammarly to check grammar and improve clarity.  
