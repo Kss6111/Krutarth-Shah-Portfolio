@@ -117,6 +117,11 @@ India’s consumer debt growth is both a story of empowerment and risk. While cr
 | CEIC – India Cards: Volume (Credit Card) | [Link](https://www.ceicdata.com/en/india/card-payments/cards-volume-credit-card) | Time series of credit card usage volume (units) in India (monthly). |
 | IDBI Capital / Bank Report – Credit Card Spend & Issuance | [Link](https://idbicapital.com/InstitutionReports/Uploads/Credit%20Card%20Data%20Update_SR_2412024.pdf) | Bank-wise credit card spend, issuance, growth rates, monthly data from RBI sources. |
 | RBI – Basic Statistical Return on Credit (SCBs) | [Link](https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/43174/RBI-published-the-Basic-Statistical-Return-on-Credit-by-Scheduled-Commercial-Banks-SCBs-in-India-March-2025-June022025.pdf) | Credit outstanding by SCBs (scheduled commercial banks), including breakdowns of credit types. |
+| CEIC – India Household Debt as % of Nominal GDP | [Link](https://www.ceicdata.com/en/indicator/india/household-debt--of-nominal-gdp) | Time series showing India’s household debt expressed as a share of nominal GDP. |
+| CEIC – India Total Loans | [Link](https://www.ceicdata.com/en/indicator/india/total-loans) | Aggregate outstanding loans in India (banking sector). |
+| IBEF – Surge in Credit Card Spends | [Link](https://ibef.org/blogs/surge-in-credit-card-spends-understanding-key-drivers-and-implications#:~:text=Debt%20burden:%20The%20surge%20in,starting%20from%20March%207%2C%202024) | Analysis and data on rising credit card spending, drivers, and implications in India. |
+| Yahoo Finance – India BNPL Market | [Link](https://finance.yahoo.com/news/india-buy-now-pay-later-101300190.html) | Article and figures on BNPL growth trajectory in India. |
+| Statista – India RBI Digital Payment Index | [Link](https://www.statista.com/statistics/1351400/india-rbi-digital-payment-index/?srsltid=AfmBOoqNBl9htdP6gxC65W4sst5de9e39pdfpMYrl29R9mUYGawtyIh) | Time series for the RBI digital payments index in India. |
 
 ---
 
@@ -142,8 +147,7 @@ An interactive, stand-alone project combining Shorthand storytelling with Tablea
 
 ---
 
-## References  
-- Reserve Bank of India. (2024). *Database on Indian Economy*. Retrieved from [https://www.rbi.org.in](https://www.rbi.org.in)  
+## References  - Reserve Bank of India. (2024). *Database on Indian Economy*. Retrieved from [https://www.rbi.org.in](https://www.rbi.org.in)  
 - TransUnion CIBIL. (2024). *Consumer Credit Insights Report*. Retrieved from [https://www.transunioncibil.com](https://www.transunioncibil.com)  
 - National Sample Survey Office (MOSPI). (2023). *Household Consumer Expenditure Survey*. Retrieved from [https://www.mospi.gov.in](https://www.mospi.gov.in)  
 - Counterpoint Research. (2023). *India Smartphone Financing Trends*. Retrieved from [https://www.counterpointresearch.com](https://www.counterpointresearch.com)  
@@ -152,6 +156,11 @@ An interactive, stand-alone project combining Shorthand storytelling with Tablea
 - World Bank. (2024). *World Development Indicators*. Retrieved from [https://data.worldbank.org](https://data.worldbank.org)  
 - OECD. (2024). *Household Savings and Debt Indicators*. Retrieved from [https://data.oecd.org](https://data.oecd.org)  
 - IMF. (2024). *Global Debt Database*. Retrieved from [https://www.imf.org](https://www.imf.org)  
+- CEIC. (n.d.). *India: Household Debt as % of Nominal GDP*. Retrieved from [https://www.ceicdata.com/en/indicator/india/household-debt--of-nominal-gdp](https://www.ceicdata.com/en/indicator/india/household-debt--of-nominal-gdp)  
+- CEIC. (n.d.). *India: Total Loans*. Retrieved from [https://www.ceicdata.com/en/indicator/india/total-loans](https://www.ceicdata.com/en/indicator/india/total-loans)  
+- IBEF. (2024). *Surge in Credit Card Spends: Understanding Key Drivers and Implications*. Retrieved from [https://ibef.org/blogs/surge-in-credit-card-spends-understanding-key-drivers-and-implications#:~:text=Debt%20burden:%20The%20surge%20in,starting%20from%20March%207%2C%202024](https://ibef.org/blogs/surge-in-credit-card-spends-understanding-key-drivers-and-implications#:~:text=Debt%20burden:%20The%20surge%20in,starting%20from%20March%207%2C%202024)  
+- Yahoo Finance. (n.d.). *India’s Buy Now, Pay Later Market Growth*. Retrieved from [https://finance.yahoo.com/news/india-buy-now-pay-later-101300190.html](https://finance.yahoo.com/news/india-buy-now-pay-later-101300190.html)  
+- Statista. (n.d.). *India RBI Digital Payment Index*. Retrieved from [https://www.statista.com/statistics/1351400/india-rbi-digital-payment-index/?srsltid=AfmBOoqNBl9htdP6gxC65W4sst5de9e39pdfpMYrl29R9mUYGawtyIh](https://www.statista.com/statistics/1351400/india-rbi-digital-payment-index/?srsltid=AfmBOoqNBl9htdP6gxC65W4sst5de9e39pdfpMYrl29R9mUYGawtyIh)    
 
 ---
 
