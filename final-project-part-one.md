@@ -147,7 +147,8 @@ An interactive, stand-alone project combining Shorthand storytelling with Tablea
 
 ---
 
-## References  - Reserve Bank of India. (2024). *Database on Indian Economy*. Retrieved from [https://www.rbi.org.in](https://www.rbi.org.in)  
+## References  
+- Reserve Bank of India. (2024). *Database on Indian Economy*. Retrieved from [https://www.rbi.org.in](https://www.rbi.org.in)  
 - TransUnion CIBIL. (2024). *Consumer Credit Insights Report*. Retrieved from [https://www.transunioncibil.com](https://www.transunioncibil.com)  
 - National Sample Survey Office (MOSPI). (2023). *Household Consumer Expenditure Survey*. Retrieved from [https://www.mospi.gov.in](https://www.mospi.gov.in)  
 - Counterpoint Research. (2023). *India Smartphone Financing Trends*. Retrieved from [https://www.counterpointresearch.com](https://www.counterpointresearch.com)  
